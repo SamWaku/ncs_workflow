@@ -215,3 +215,7 @@ app_license = "MIT"
 # auth_hooks = [
 #	"ncs.auth.validate"
 # ]
+
+fixtures = [
+    "Workflow"
+]
